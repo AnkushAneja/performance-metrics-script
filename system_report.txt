@@ -1,0 +1,23 @@
+
+System Performance Report
+=========================
+CPU Usage: 1.5%
+Memory Usage:
+  Total: 8467877888 bytes
+  Used: 5130014720 bytes
+  Free: 3337863168 bytes
+  Percent: 60.6%
+Disk Usage:
+  C:\: {'total': 109551452160, 'used': 95385673728, 'free': 14165778432, 'percent': 87.1}
+  D:\: {'total': 48318418944, 'used': 24733437952, 'free': 23584980992, 'percent': 51.2}
+  E:\: {'total': 127377920000, 'used': 43307487232, 'free': 84070432768, 'percent': 34.0}
+  F:\: {'total': 48315256832, 'used': 33844056064, 'free': 14471200768, 'percent': 70.0}
+  G:\: {'total': 33873981440, 'used': 10737348608, 'free': 23136632832, 'percent': 31.7}
+  I:\: Permission Denied
+Top 5 CPU-Consuming Processes:
+  PID 0, Name: System Idle Process, CPU%: 792.8
+  PID 6304, Name: python.exe, CPU%: 1.5
+  PID 4268, Name: MsMpEng.exe, CPU%: 0.7
+  PID 5428, Name: NVDisplay.Container.exe, CPU%: 0.6
+  PID 8096, Name: EasyMail.Win32.exe, CPU%: 0.6
+        
